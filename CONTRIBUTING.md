@@ -25,7 +25,7 @@ Please ensure that your code follows the repository's coding style and conventio
 
 ## Code of Conduct
 
-To ensure that all contributors feel welcome and respected, we have adopted the Contributor Covenant Code of Conduct. Please read the `CODE_OF_CONDUCT.md` file for more information.
+To ensure that all contributors feel welcome and respected, we have adopted the Contributor Covenant Code of Conduct.
 
 ## License
 
