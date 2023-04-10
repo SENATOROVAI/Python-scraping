@@ -1,4 +1,4 @@
-# Web Scraping Repository
+# Web Scraping Repository!
 
 Welcome to the **Web Scraping Repository**! This repository contains various web scraping scripts and projects that demonstrate how to scrape data from websites using Python. The projects cover a wide range of topics, such as web scraping basics, scraping with APIs, scraping with headless browsers, and more. Each project is designed to help you learn new skills, develop your web scraping abilities, and apply best practices in web scraping.
 
